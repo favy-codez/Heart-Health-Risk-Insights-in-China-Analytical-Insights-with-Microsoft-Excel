@@ -7,4 +7,4 @@ This project analyzes heart health risks in China using data from Kaggle. It exa
 #####
 [**Dataset Source - Kaggle**](https://www.kaggle.com/datasets/ankushpanday2/heart-attack-risk-dataset-of-china)
 #####
-[**Report on Datascienceportfol.io**](https://www.datascienceportfol.io/GodsfavourEzeliora/projects/0)
+[**Report on Datascienceportfol.io**](https://www.datascienceportfol.io/GodsfavourEzeliora/projects/1)
