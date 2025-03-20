@@ -1,5 +1,5 @@
 
-![Dashboard Preview](https://github.com/favy-codez/Heart-Health-Risk-Insights-in-China-Analytical-Insights-with-Microsoft-Excel/blob/main/Dashboard%203.png?raw=true)
+![Dashboard Preview](https://github.com/favy-codez/Heart-Health-Risk-Insights-in-China-Analytical-Insights-with-Microsoft-Excel/blob/main/Dashboard.png)
 **Heart Health Risk Insights in China**  
 This project analyzes heart health risks in China using data from Kaggle. It examines trends in age, gender, smoking, hypertension, cholesterol, physical activity, diet, and pollution exposure. The insights help identify key risk factors and support informed discussions on heart disease prevention.
 
